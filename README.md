@@ -1,3 +1,3 @@
 # demo
 connect github
-test merge
+make a new branch
